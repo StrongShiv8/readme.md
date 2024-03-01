@@ -20,7 +20,7 @@
   </a>
   <br>
   <br>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/StrongShiv8.png" alt="TryHackMe" width=250>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/StrongShiv8.png" alt="TryHackMe">
 <br><br><br>
 <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StrongShiv8&theme=tokyonight" target="_blank">
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StrongShiv8&theme=tokyonight" alt="stats"/>
